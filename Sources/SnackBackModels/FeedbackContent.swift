@@ -1,5 +1,5 @@
 import Foundation
 
-struct FeedbackContent: Codable {
-  let message: String
+public struct FeedbackContent: Codable {
+  public let message: String
 }
